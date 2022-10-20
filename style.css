@@ -1,14 +1,13 @@
 
 body{
 	background:url(image0.jpg);
-	background-size: cover;
 	height: 80vh;
 	background-position: center;
 }
 
 body div{
-	background-color: silver;
-	color:silver ;
+	background-color: purple;
+	color:red ;
 	text-align: center;
 	margin: 80px;
 	padding: 50px;
@@ -16,7 +15,7 @@ body div{
 }
 
 div p {
-	color: silver;
+	color: green;
 	font-style: Britannic Bold ;
 	font-size: 20px;
 }
